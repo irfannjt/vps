@@ -1,0 +1,2 @@
+# vps
+auto instal vps
